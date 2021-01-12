@@ -1,1 +1,1 @@
-# HelloWorldSample
+"Hello World"
